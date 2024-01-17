@@ -1,0 +1,37 @@
+div.center {
+    padding: 129px 0;
+    text-align: center;
+}
+
+p.contFont {
+    font-size: 100px;
+    color: pink;
+    font-family: Arial;
+    background-color: azure;
+    border-radius: 20px;
+}
+
+h1.letra {
+    font-size: 40px;
+    color: white;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium';
+}
+
+button.Boton {
+    padding: 5px 10px;
+    font-size: large;
+    font-family: Arial;
+    cursor: pointer;
+    border: solid;
+    border-width: 4px;
+    border-color: black;
+    border-style: double;
+    border-radius: 6px;
+    margin: 10px;
+}
+
+body{
+    
+    background-color: black;
+}
